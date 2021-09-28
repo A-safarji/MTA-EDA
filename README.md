@@ -48,6 +48,8 @@ Data obtained from [MTA Turnstile](http://web.mta.info/developers/turnstile.html
 | ENTRIES    | The comulative entry register value for a device                                |
 | EXITS      | The cumulative exit register value for a device                                 |
 | Traffic    | The total traffic ENTRIES.diff() + EXITS.diff().                                |
+| Congestion | Which is the number of entries and exists added up to know how busy the station |
+
 
 
 
