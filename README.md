@@ -29,7 +29,8 @@ Optimize the stations that led to dangerously-crowded trains and crowds.
 
 #### Data Description:
 * MTA Turnstile Data:
-Data obtained from http://web.mta.info/developers/turnstile.html.
+Data obtained from [MTA Turnstile](http://web.mta.info/developers/turnstile.html).
+- [MTA.info](http://www.mta.info/nyct), for maps and line logos
 
 * Field Description:
 
@@ -51,9 +52,11 @@ Data obtained from http://web.mta.info/developers/turnstile.html.
 
 
 #### Tools:
-* Python3, Pandas, Numpy, Jupiter, Seaborn, Sqlite3 and Matplotlib.
+* To carry out the project and explore the data, Jupyter,Sqllite3 and Python3. In addition, Python3 libraries which are:
+Matplotlib, and Seaborn for data visualization.
+Numpy, and Panda for data read and write operations.
 
 
 #### MVP Goal:
-* What would a [minimum viable product (MVP)](./mvp.md) look like for this project?
-* What would a minimum viable product (MVP) look like for this project? A MVP for this project would be a list of ten subway stations with the best (....)
+
+* A MVP would be an identification of the subway stations that have the most traffics and crowds, correlated with those whose commute everyday and decressing crowds month by month. For these I will also include the best top 3 stations and trains that can support reducing crowds.
