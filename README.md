@@ -7,7 +7,7 @@ As a daily subway commuter, based on experience, commuters are more willing to t
 
 ###  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Project Proposal EDA For MTA Project
 
-### Introduction. 
+### Introduction:
 
 * New York Metropolitan Transportation Authority (MTA) commute plagued by delays as riders gripe over crowds
 and delays on lines led to dangerously-crowded trains.  
