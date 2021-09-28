@@ -17,7 +17,7 @@ and delays on lines led to dangerously-crowded trains.
 
 * Identify how to improve traffics and delays on crowded stations that waste commuters time.
 
-* Identify un-busy trains and buses to support crowds.
+* Identify un-busy trains and buses to support crowded stations.
 
 ### Objective and Goal:
 
