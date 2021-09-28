@@ -51,9 +51,6 @@ Data obtained from [MTA Turnstile](http://web.mta.info/developers/turnstile.html
 | Congestion | Which is the number of entries and exists added up to know how busy the station |
 
 
-## Status
-Project is: ![##f01515](https://via.placeholder.com/15/f01515/000000?text=+) _Under Approval_
-
 
 #### Tools:
 * To carry out the project and explore the data, Jupyter,Sqllite3 and Python3. In addition, Python3 libraries which are:
@@ -64,3 +61,7 @@ Numpy, and Panda for data read and write operations.
 #### MVP Goal:
 
 * A MVP would be an identification of the subway stations that have the most traffics and crowds, correlated with those whose commute everyday and decressing crowds month by month. For these I will also include the best top 3 stations and trains that can support reducing crowds.
+
+## Status
+Project is: ![##f01515](https://via.placeholder.com/15/f01515/000000?text=+) _Under Approval_
+
