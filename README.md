@@ -4,7 +4,11 @@ As a daily subway commuter, based on experience, commuters are more willing to t
 *Identify how to improve traffics and delays on crowded stations that waste commuters time.
 -->
 
-<img width="523" alt="Screen Shot 2021-09-29 at 6 09 26 AM" src="https://user-images.githubusercontent.com/20365333/135302457-f11fd9c7-22c1-4cc6-b6dc-ee73d4e48e39.png">
+
+
+<p align="center">
+  <img width="523" src="https://user-images.githubusercontent.com/20365333/135302457-f11fd9c7-22c1-4cc6-b6dc-ee73d4e48e39.png">
+</p>
 
 ###  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Project Proposal EDA For MTA Project
 
