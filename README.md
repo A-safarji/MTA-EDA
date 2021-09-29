@@ -60,7 +60,7 @@ Numpy, and Panda for data read and write operations.
 
 #### MVP Goal:
 
-* A MVP would be an identification of the subway stations that have the most traffics and crowds, correlated with those whose commute everyday and decressing crowds month by month. For these I will also include the best top 3 stations and trains that can support reducing crowds.
+* A MVP would be an identification of the subway stations that have the most traffics and crowds, correlated with those whose commute everyday and decressing crowds from busy stations. For these, I will also include the best top 3 stations and trains that can support reducing crowds in busy stations.
 
 ## Status
 Project is: ![##f01515](https://via.placeholder.com/15/f01515/000000?text=+) _Under Approval_
