@@ -10,7 +10,7 @@ As a daily subway commuter, based on experience, commuters are more willing to t
   <img width="523" src="https://user-images.githubusercontent.com/20365333/135302457-f11fd9c7-22c1-4cc6-b6dc-ee73d4e48e39.png">
 </p>
 
-###  ![#2bd0d9](https://via.placeholder.com/15/2bd0d9/000000?text=+) Project Proposal EDA For MTA Project
+###  ![#ed7d2d](https://via.placeholder.com/15/ed7d2d/000000?text=+) Project Proposal EDA For MTA Project
 
 ### Introduction:
 
