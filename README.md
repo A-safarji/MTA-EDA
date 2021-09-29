@@ -22,11 +22,11 @@ and delays on lines led to dangerously-crowded trains.
 ### Objective and Goal:
 
 Optimize the stations that led to dangerously-crowded trains and crowds.
-* Finding the overall busiest stations and quitest.
-* Finding none traffic trains to support other stations.
-* Finding time period of day with highest traffic and crowds per station.
-* Finding the best time for buses to support if trains out of capacity.
+* Find the busiest and quitest stations.
+* Find demand of passengers across all stations and further optimize the avaliablity of trains to busy stations.
+* Discover the impact of rush hour on trains and passenger experience. <!--time period of day with highest traffic and crowds per station * Observe the best time for buses to support if trains out of capacity..-->
 
+   
 #### Data Description:
 * MTA Turnstile Data:
 Data obtained from [MTA Turnstile](http://web.mta.info/developers/turnstile.html).
