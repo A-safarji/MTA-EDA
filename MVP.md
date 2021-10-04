@@ -12,5 +12,5 @@
 <img width="940" alt="Screen Shot 2021-10-04 at 10 45 02 PM" src="https://user-images.githubusercontent.com/20365333/135914594-c6170e0e-3a9f-4f0a-8ae6-d8b0db9fd4f6.png">
 
 
-* Finally, this project will help MTA to reduce high traffics and crowds between morning and evening time by predicting on live map the most crowded stations, and applying other recommandations on trains hitch management.   
+* Finally, this project will help MTA to reduce high traffics and crowds between morning and evening time by predicting on live map the most crowded stations, and applying other recommandations for trains hitch management.   
   
