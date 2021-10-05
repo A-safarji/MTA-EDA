@@ -68,9 +68,9 @@ Numpy, and Panda for data read and write operations.
 * The goal of this project would be an identification of the subway stations that have the most traffics and crowds, correlated with those who commute every day. And to help decreasing crowds from busy stations. For these, I will also include stations and external sources that can support reducing crowds in busy stations between morning and evening. 
 
 
-To start exploring this goal, I used real live maps and charts to detect and predict crowds on the map. Also, helping reduce crowds by using external transportations such as buses where I can spot them on the map (the blue squares) to support commuters in any busy stations. Therefore, I will focus on trains hitch management elements to merge lines and increases the capacity of riders.  
+To start exploring this goal, I used real live maps and charts to detect and predict crowds on the map. Also, helping reduce crowds by using external transportations such as buses where I can spot them on the maps. 
 
-
+[Further details on the MVP of this project](https://github.com/A-safarji/MTA-EDA/blob/main/MVP.md) - feel free to click me!
 
 ## Status
 Project is: ![##f01515](https://via.placeholder.com/15/f01515/000000?text=+) _Under Approval_
