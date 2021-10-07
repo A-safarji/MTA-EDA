@@ -1,16 +1,16 @@
-# Exploratory Data Analysis on MTA stations 
+# Exploratory Data Analysis (EDA) Projects of MTA Turnstile Data:
 
 ## Abstract 
 
-The goal of this project is to use Exploratory Data Analysis to discover the most crowded stations in the MTA to recommend the most eligible locations that would solidify the position of our client in the market. 
+The goal of this project would be an identification of the subway stations that have the most traffics and crowds, correlated with those who commute every day. And to help decreasing crowds from busy stations. For these, I will also include stations and external sources that can support reducing crowds in busy stations between morning and evening time. 
 
 ## Design 
 
-The project utilizes a dataset provided by the MTA that helps in getting information regarding the stations especially the turnstiles information. 
+The project utilizes a dataset provided by the MTA that helps in getting information regarding the stations especially the turnstiles information. MTA APIs for maps and line logos. Therefore, the design detect congestins based on stations exits, entries between moring and evening. After detecting, the model will generate live map for spoting congestins, to enable MTA take action to improve operations and support busy stations.  
 
 ## Data 
 
-The dataset contains over 2.7 million observations in the period from July to September of 2021, after grouping the data we reached 379 observations of the stations in the dataset.     
+The dataset contains over 2.5 million observations in the period from July to September of 2021, and  after grouping the data we reached 379 observations of the stations in the dataset.     
 
 ## Algorithms 
 
