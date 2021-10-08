@@ -18,7 +18,7 @@ As a daily subway commuter, based on experience, commuters are more willing to t
 and delays on lines led to dangerously-crowded trains.  
 
 #### Question/need:
-* The goal of this analysis is to determine traffics and delays of trains station that casuses riders gripe over crowds. Therefore, helping decision-making process for MTA and paving the way to provide more buses on thses crowded stations which to decentralize crowds without any addtional costs. 
+* The goal of this analysis is to determine congestions and crowds of trains stations that casuses riders gripe over crowds. Therefore, helping decision-making process for MTA and paving the way to provide more buses on thses crowded stations which to decentralize crowds without any addtional costs. 
 
 * Identify how to improve traffics and delays on crowded stations that waste commuters time.
 
