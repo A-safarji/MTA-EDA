@@ -10,18 +10,23 @@ The project utilizes a dataset provided by the MTA that helps in getting informa
 
 ## Data 
 
-The dataset contains over 2.5 million observations in the period from July to September of 2021, and  after grouping the data we reached 379 observations of the stations in the dataset.     
+The dataset contains over 2.5 million observations in the period from July to September of 2021 with 11 columns. A few feature highlights include numbers of entries/exits for each station. In addtion, using MTA maps dataset for individual features for each station by using  latitude/longitude coordinates and it contians 496 rows × 14 columns.   
 
 ## Algorithms 
 
 Exploratory data analysis techniques are used to clean the data and form a proper dataset that can be reasonably aggregated and visualized. 
 
 ## Tools 
+* To carry out the project and explore the data, Jupyter,Sqllite3 and Python3. In addition, Python3 libraries which are: Matplotlib, Seaborn, and Plotly-express for data visualization. Numpy, and Panda for data read and write operations.
+* Using Folium and plotly dash for maps visualization.  
 
-* Pandas for data manipulation.
-* Matplotlib and Seaborn for plotting. 
 
 ## Communication 
 
-In addition to the visuals presented this plot is presented to further elaborate on the point of the project. 
+In addition to the slides and visuals presented,[EDA of MTA Turnstile](https://chart-studio.plotly.com/dashboard/A-safarji:10/view) will be embedded on my personal dashbored. 
+
+<img width="868" alt="Screen Shot 2021-10-04 at 10 42 40 PM" src="https://user-images.githubusercontent.com/20365333/135914534-d153b19e-e2a2-4a1a-b1d7-e4e32d7a7930.png">
+
+<img width="940" alt="Screen Shot 2021-10-04 at 10 45 02 PM" src="https://user-images.githubusercontent.com/20365333/135914594-c6170e0e-3a9f-4f0a-8ae6-d8b0db9fd4f6.png">
+
 
