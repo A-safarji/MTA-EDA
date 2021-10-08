@@ -18,8 +18,6 @@ Exploratory data analysis techniques are used to clean the data and form a prope
 
 *Feature Engineering*
 
-*Feature Engineering*
-
 1. Upload both datasets to the Jupyter Notebook.
 2. Convert the daily report of MTA to monthly.
 3. Cleaning the data, dropping duplicates and imputing any missing value.
