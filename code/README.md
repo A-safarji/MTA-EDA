@@ -5,7 +5,7 @@ This repo contains Project-01 data and solution. Project-01 is about Exploratory
 
 ## Exploratory Data Analysis (EDA):
 
-For showing plot clearly and code execution use this link for better view!  
+For showing plots clearly and code executions use this link for better view!  
 
 [Code View](https://nbviewer.org/github/A-safarji/MTA-EDA/blob/main/code/mta-turnstile-code.ipynb)
 
