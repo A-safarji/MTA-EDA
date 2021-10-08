@@ -30,9 +30,13 @@ Identify how to reduce congestion and delays on crowded stations that waste comm
 ### Objective and Goal:
 
 Optimize the stations that led to dangerously-crowded trains and crowds.
-* Find the busiest and quitest stations.
-* Find demand of passengers across all stations and further optimize the avaliablity of trains to busy stations.
-* Discover the impact of rush hour on trains and passenger experience. <!--time period of day with highest traffic and crowds per station * Observe the best time for buses to support if trains out of capacity..-->
+
+* Find the congestion and detected it on a live map.
+* Discover demand of trains across all stations and further optimize the availability of trains to busy stations.
+* Help identify how to reduce congestion and delays on crowded stations that waste commuters' time.
+* Provide fetching external transportations near congestion stations and track lines on map to help shift track managment. 
+
+ <!--time period of day with highest traffic and crowds per station * Observe the best time for buses to support if trains out of capacity..-->
 
    
 #### Data Description:
