@@ -20,12 +20,9 @@ and delays on lines led to dangerously-crowded trains.
 #### Question/need:
 * The goal of this analysis is to determine congestions and crowds of trains stations that casuses riders gripe over crowds. Therefore, helping decision-making process for MTA and paving the way to provide more buses on thses crowded stations which to decentralize crowds without any addtional costs. 
 
-* Identify un-busy trains and buses to support crowded stations.
-
-* Find the congestion and detected it on a live map.
-
-* Discover demand of trains across all stations and further optimize the availability of trains to busy stations.
-Identify how to reduce congestion and delays on crowded stations that waste commuters' time.
+* Identify busy trains of crowded stations.
+* Find congestions between morning and evening.
+* How to reduce congestions and delays on crowded stations that waste time.
 
 ### Objective and Goal:
 
