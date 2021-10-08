@@ -39,7 +39,7 @@ Exploratory data analysis techniques are used to clean the data and form a prope
 
 ## Communication 
 
-In addition to the slides and visuals presented,[EDA of MTA Turnstile](https://chart-studio.plotly.com/dashboard/A-safarji:10/view) will be embedded on my personal dashbored. 
+In addition to the slides and visuals presented, [EDA of MTA Turnstile](https://chart-studio.plotly.com/dashboard/A-safarji:10/view) will be embedded on my personal dashbored. 
 
 
 <img width="1036" alt="Screen Shot 2021-10-06 at 10 24 18 PM" src="https://user-images.githubusercontent.com/20365333/136509126-17496e7e-cde0-4d84-8c38-06cc0575409c.png">
