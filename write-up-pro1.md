@@ -2,7 +2,7 @@
 
 ## Abstract 
 
-The goal of this project would be an identification of the subway stations that have the most congestions and crowds, correlated with those who commute every day. And to help decreasing crowds from busy stations. For these, I will also include stations and external sources that can support reducing crowds in busy stations between morning and evening time. 
+The goal of this project would be an identification of the subway stations that have the most congestions and crowds, correlated with those who commute every day. And to help decreasing crowds from busy stations. For these, I will also include stations and external sources that can support reducing crowds in busy stations between morning and evening time. As a result, the crowds will be shown and detected on map based on congestion time.   
 
 ## Design 
 
