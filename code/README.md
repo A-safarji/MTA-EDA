@@ -7,6 +7,6 @@ This repo contains Project-01 data and solution. Project-01 is about Exploratory
 
 For showing plots clearly and code executions use this link for better view!  
 
-[Code View](https://nbviewer.org/github/A-safarji/MTA-EDA/blob/main/code/mta-turnstile-code.ipynb)
+[Code View](https://github.com/A-safarji/MTA-EDA/blob/main/code/code-MTA.ipynb)
 
 
