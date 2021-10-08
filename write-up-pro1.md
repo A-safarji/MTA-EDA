@@ -34,6 +34,8 @@ Exploratory data analysis techniques are used to clean the data and form a prope
 * To carry out the project and explore the data, Jupyter,Sqllite3 and Python3. In addition, Python3 libraries which are: Matplotlib, Seaborn, and Plotly-express for data visualization. Numpy, and Panda for data read and write operations.
 * Using Folium and plotly dash for maps visualization.  
 
+## Scope
+* Due to the computational and time constraint as well as the unavailability of complete datasets. The MTA Turnstile and MTA maps  will be used.
 
 ## Communication 
 
