@@ -77,5 +77,5 @@ Dynamic maps to detect and predict crowds on maps. Also, helping reduce crowds b
 [Further details on the MVP of this project](https://github.com/A-safarji/MTA-EDA/blob/main/MVP.md) - feel free to click me!
 
 ## Status
-Project is: ![#00FF00](https://via.placeholder.com/15/00FF00/000000?text=+) _Approved_
+Project is: ![#00FF00](https://via.placeholder.com/15/00FF00/000000?text=+) _Done_
 
